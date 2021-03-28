@@ -12,5 +12,4 @@
 ## Installation
 
 > Requires node.js and express.js
-> hosted on heroku
 > 
